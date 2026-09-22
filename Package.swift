@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BigoADS",
-            url: "https://static-fed-oss.adsbigo.com/bigoads-framework/BigoADS_60001_103.zip",
-            checksum: "07673d92b11b7e6da19ae17887a8c4f82a012d9c3435ec1d841abe9a1b9a2ee3"
+            url: "https://static-fed-oss.adsbigo.com/bigoads-framework/BigoADS_60100_104.zip",
+            checksum: "8b4074fa4b54940bafb279303120c60098b497271063e7bf23324166973625e8"
         )
     ]
 )
